@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oovaechir.zenofsnow.com/sitemap.xml
